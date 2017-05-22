@@ -1,0 +1,114 @@
+[
+  {
+    "code": "0731",
+    "commission_degree": 95.94,
+    "name": "长沙",
+    "response_time": 1.77,
+    "priority": 5,
+    "bussiness_degree": 96.38
+  },
+  {
+    "code": "0730",
+    "commission_degree": 97.05,
+    "name": "岳阳",
+    "response_time": 1.85,
+    "priority": 5,
+    "bussiness_degree": 98.50
+  },
+  {
+    "code": "0733",
+    "commission_degree": 95.80,
+    "name": "株洲",
+    "response_time": 1.81,
+    "priority": 1,
+    "bussiness_degree": 100.00
+  },
+  {
+    "code": "0732",
+    "commission_degree": 99.05,
+    "name": "湘潭",
+    "response_time": 1.86,
+    "priority": 1,
+    "bussiness_degree": 98.47
+  },
+  {
+    "code": "0738",
+    "commission_degree": 97.66,
+    "name": "娄底",
+    "response_time": 1.81,
+    "priority": 1,
+    "bussiness_degree": 98.39
+  },
+  {
+    "code": "0735",
+    "commission_degree": 97.58,
+    "name": "郴州",
+    "response_time": 1.72,
+    "priority": 5,
+    "bussiness_degree": 98.74
+  },
+  {
+    "code": "0746",
+    "commission_degree": 96.74,
+    "name": "永州",
+    "response_time": 1.81,
+    "priority": 1,
+    "bussiness_degree": 99.31
+  },
+  {
+    "code": "0737",
+    "commission_degree": 96.35,
+    "name": "益阳",
+    "response_time": 1.79,
+    "priority": 1,
+    "bussiness_degree": 100.00
+  },
+  {
+    "code": "0745",
+    "commission_degree": 95.35,
+    "name": "怀化",
+    "response_time": 1.87,
+    "priority": 1,
+    "bussiness_degree": 97.80
+  },
+  {
+    "code": "0739",
+    "commission_degree": 97.83,
+    "name": "邵阳",
+    "response_time": 1.73,
+    "priority": 1,
+    "bussiness_degree": 97.40
+  },
+  {
+    "code": "0743",
+    "commission_degree": 98.48,
+    "name": "吉首",
+    "response_time": 1.85,
+    "priority": 5,
+    "bussiness_degree": 100.00
+  },
+  {
+    "code": "0734",
+    "commission_degree": 99.31,
+    "name": "衡阳",
+    "response_time": 1.74,
+    "priority": 5,
+    "bussiness_degree": 99.21
+  },
+  {
+    "code": "0744",
+    "commission_degree": 97.62,
+    "name": "张家界",
+    "response_time": 1.84,
+    "priority": 1,
+    "bussiness_degree": 99.12
+  },
+  {
+    "code": "0736",
+    "commission_degree": 95.17,
+    "name": "常德",
+    "response_time": 1.81,
+    "priority": 1,
+    "bussiness_degree": 98.67
+  }
+]

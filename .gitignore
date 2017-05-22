@@ -1,0 +1,7 @@
+# dir
+/dist
+/node_modules
+
+# log
+/npm-debug.log
+/selenium-debug.log
